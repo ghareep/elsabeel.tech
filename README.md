@@ -34,8 +34,8 @@ This project was born from observing the challenges faced by programming newcome
 - Access provided resources to deepen your understanding
 
 ## 🤝 Connect
-- GitHub: [@iarchtesla](https://github.com/iarchtesla)
-- LinkedIn: [iarchtesla](https://www.linkedin.com/in/iarchtesla) 
+- GitHub: [@Qaiem](https://github.com/ghareep)
+- LinkedIn: [Qaiem](https://www.linkedin.com/in/ghareep) 
 
 ---
 
