@@ -34,7 +34,7 @@ This project was born from observing the challenges faced by programming newcome
 - Access provided resources to deepen your understanding
 
 ## 🤝 Connect
-- GitHub: [@Qaiem](https://github.com/ghareep)
+- GitHub: [Qaiem](https://github.com/ghareep)
 - LinkedIn: [Qaiem](https://www.linkedin.com/in/ghareep) 
 
 ---
